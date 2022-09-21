@@ -1,0 +1,36 @@
+header{
+    color: white;
+    background-color: orange;
+    height: 40px;
+    padding: 10px, 10px, 10px, 10px;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+main{
+    margin: 15px;
+    padding: 20px, 30px, 20px, 30px;    
+    width: 90vw;
+    height: 80vh;
+}
+article{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+h1 ,h2{
+    font-family: Arial;
+}
+p{
+    font-family: Helvetica;
+}
+.destaque{
+    color: orange;
+}
+    
+footer{
+    height: 40px;
+    padding: 10px;
+    color: white;
+    background-color: black;    
+}
